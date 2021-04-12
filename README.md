@@ -6,7 +6,7 @@
 </head>
 <body>
     <button id="BEGIN"> click to be a dumbass</button>
-    <p>yeet</p>>
+    <p>yeet</p>
     <script type="module" src="/common/lib/tonejs/Tone.js"></script>
     <script type="module" src="audiojungle.js"></script>
 </body>
